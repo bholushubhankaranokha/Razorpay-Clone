@@ -13,6 +13,10 @@ https://bholushubhankaranokha.github.io/Razorpay-Clone/
 ## 👨‍💻 Author
 Bholu Shubhankar Anokha
 
+## 📬 Connect With Me
+
+- **LinkedIn** - [Bholu Shubhankar Anokha](https://www.linkedin.com/in/bholushubhankaranokha/)
+
 ## Project Preview
 
 ![Razorpay Clone Screenshot](./images/website-screenshot.png)
