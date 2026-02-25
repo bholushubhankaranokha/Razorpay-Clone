@@ -1,6 +1,6 @@
 # Razorpay Clone 💳
 
-A frontend clone of Razorpay website built using HTML, CSS, and Tailwind.
+A frontend clone of Razorpay Responsive website built using HTML, CSS, and Tailwind.
 
 ## 🚀 Live Demo
 https://bholushubhankaranokha.github.io/Razorpay-Clone/
@@ -12,3 +12,7 @@ https://bholushubhankaranokha.github.io/Razorpay-Clone/
 
 ## 👨‍💻 Author
 Bholu Shubhankar Anokha
+
+## Project Preview
+
+![Razorpay Clone Screenshot](./images/website-screenshot.png)
